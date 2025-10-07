@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz 👋
+## Olá, eu sou a Beatriz 👋
 Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas (TADS)** no Integrado - CM e participo do projeto **Aceleração de Carreiras**.
 
 ### 💜 O que estou fazendo ultimamente?
