@@ -1,11 +1,11 @@
-#### Olá, eu sou a Beatriz 👋
+### Olá, eu sou a Beatriz 👋
 Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas (TADS)** no Integrado - CM e participo do projeto **Aceleração de Carreiras**.
 
-#### 💜 O que estou fazendo ultimamente?
+### 💜 O que estou fazendo ultimamente?
 
 - **Meu atual projeto da faculdade:** [Oasiss](https://github.com/bbringsjoy/Oasiss)
 
-#### 💗 Projetos em destaque
+### 💗 Projetos em destaque
 
 O site para a Dra. Aline foi o meu segundo projeto da faculdade de TADS, onde utilizei **PHP**, **HTML** e **CSS**.
 
