@@ -7,13 +7,13 @@ Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas 
 
 ### 💗 Projetos em destaque
 
-####   Dra. Aline 🩺🦷
+#### Dra. Aline 🩺🦷
 
-  O site para a Dra. Aline foi o meu segundo projeto da faculdade de TADS. Foi desenvolvido utilizando **PHP**, **HTML** e **CSS**.
-
-- **Repositório:** [Dra. Aline](https://github.com/bbringsjoy/Dra.Aline)
-- **Link do Site:** [Site Dra. Aline](http://draaline.infinityfreeapp.com)
-
+> O site para a Dra. Aline foi o meu segundo projeto da faculdade de TADS.
+> Foi desenvolvido utilizando **PHP**, **HTML** e **CSS**.
+>
+> - **Repositório:** [Dra. Aline](https://github.com/bbringsjoy/Dra.Aline)
+> - **Link do Site:** [Site Dra. Aline](http://draaline.infinityfreeapp.com)
 
 <!--
 **bbringsjoy/bbringsjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
