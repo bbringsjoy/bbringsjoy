@@ -1,20 +1,16 @@
 ## Olá, eu sou a Beatriz 👋
+Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas (TADS)** no Integrado - CM e participo do projeto **Aceleração de Carreiras**.
 
- ######Atualmente estou estudando Tecnologia, análise e desenvolvimento de sistemas no Integrado(TADS) - CM e participo do projeto Aceleração de carreiras
+## 💜 O que estou fazendo ultimamente?
 
+- **Meu atual projeto da faculdade:** [Oasiss](https://github.com/bbringsjoy/Oasiss)
 
-### 💜 O que estou fazendo ultimamente?
+## 💗 Projetos em destaque
 
- ###### • Meu atual projeto da faculdade: [Oasiss](https://github.com/bbringsjoy/Oasiss)
+O site para a Dra. Aline foi o meu segundo projeto da faculdade de TADS, onde utilizei **PHP**, **HTML** e **CSS**.
 
-### 💗 Projetos em destaque
-
-  ###### • O site para a Dra.Aline foi o meu segundo projeto da faculdade de TADS, utilizei as linguagens **PHP, HTML e CSS**
-
-     ###### • Repositório: [Dra.Aline](https://github.com/bbringsjoy/Dra.Aline)
-
-      ######• Link do site: [Site Dra.Aline](http://draaline.infinityfreeapp.com)
-
+- **Repositório:** [Dra. Aline](https://github.com/bbringsjoy/Dra.Aline)
+- **Link do Site:** [Site Dra. Aline](http://draaline.infinityfreeapp.com)
 
 
 <!--
