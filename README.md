@@ -7,7 +7,7 @@ Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas 
 
 ### 💗 Projetos em destaque
 
-####   Dra. Aline
+####   Dra. Aline 🩺🦷
 
   O site para a Dra. Aline foi o meu segundo projeto da faculdade de TADS. Foi desenvolvido utilizando **PHP**, **HTML** e **CSS**.
 
