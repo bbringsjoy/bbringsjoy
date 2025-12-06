@@ -3,7 +3,7 @@ Atualmente estou estudando **Tecnologia, Análise e Desenvolvimento de Sistemas 
 
 ### 💜 O que estou fazendo ultimamente?
 
-- **Meu atual projeto da faculdade:** [Oasiss](https://github.com/bbringsjoy/Oasiss)
+- **Meu último projeto da faculdade:** [DoceMix](https://github.com/bbringsjoy/SiteDoceMix)
 
 ### 💗 Projetos em destaque
 
